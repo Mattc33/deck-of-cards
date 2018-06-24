@@ -1,4 +1,4 @@
-# Sports Radar - Full Stack Engineer - Candidate Assignment
+# Deck Project
 
 ## To Run Project
 
