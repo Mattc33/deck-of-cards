@@ -11,6 +11,10 @@
 
 - JavaScript / React / Jest
 
+## Live
+
+https://awesome-hopper-7c1acc.netlify.com/
+
 ## Goals
 
 - Implement a method to shuffle the deck that does not use native random() function. 
